@@ -1,0 +1,23 @@
+html,body{
+    scroll-behavior: smooth;
+  }
+  ::selection{
+    background-color: #233000;
+    color: #fff;
+  }
+  ::-webkit-scrollbar {
+    display: none;
+  }
+
+@font-face {
+    font-family: font1;
+    src: url(./Fonts/EBGaramond-Italic-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: font2;
+    src: url(./Fonts/EBGaramond-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: font3;
+    src: url(./Fonts/EduAUVICWANTPre-VariableFont_wght.ttf);
+}
